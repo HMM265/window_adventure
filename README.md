@@ -1,5 +1,5 @@
 # window_adventure
-# made in python
+# made with python 3
 
 Your devices screen size be too small to fit the windows on your screen if that is the case ... too bad
 
